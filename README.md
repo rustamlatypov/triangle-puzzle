@@ -15,7 +15,8 @@ The player can check the current solution by pressing `Check solution`, generate
 `New Game` and ask for the correct solution by pressing `Solve`. 
 
 No valid solution is held in the memory of the program. Instead, every time a player asks for a solution, the 
-program solves the board by employing a sophisticated depth-first dynamic alogorithm. 
+program solves the board by employing a sophisticated depth-first dynamic algorithm. Due to the nature of game 
+there may be more than one correct solution, and the algorithm displayed the first one it encounters. 
 
 
 ## Software prerequisites
