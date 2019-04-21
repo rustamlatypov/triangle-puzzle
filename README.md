@@ -1,26 +1,18 @@
-# Kolmiopalapeli
+# A challenging triangle puzzle game 
 
-Aalto-yliopiston kurssin CS-A1121 - Ohjelmoinnin peruskurssi Y2 projektityö. 
+Project for the Aalto University course CS-A1121 - Programming 2.
 
-## Tiedosto- ja kansiorakenne
+Developed in March, 2019.
 
-  - src-kansion alla löytyy tarvittavat .py ja .txt tiedostot
-  - doc-kansion alla löytyy projektisuunnitelmat ja dokumentaatio
-  - main.py sisältää ajettavan pelisilmukan ja res.py tarvittavat pelilaudan koordinaatit ja värien rgb arvot
-  - Game.py sisältää tärkeimmän olion, joka pitää kirjaa pelipaloista ja jonka kanssa main.py vuorovaikuttaa
-  
-## Asennusohje
+## Introduction
 
-  - Ohjelma on kirjoitettu Python 3.7:lla ja se hyödyntää PyGamen grafiikkakirjastoa
-  - Kirjaston asennusohje pip:llä:
-      - Windows, ```python -m pip install pygame```
-      - OS X, ```pip3 install pygame```
-      - Ubuntu, ```sudo pip3 install pygame```
 
-## Käyttöohje
 
-  - Ohjelma kaynnistetään ajamalla main.py
-  
-## Tekijä
+## Software prerequisites
+
+The game was built on Python 3.7 with PyGame 1.9.5.
+
+
+## Authors
 
 [Rustam Latypov](mailto:rustam.latypov@aalto.fi)
