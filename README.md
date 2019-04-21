@@ -1,4 +1,4 @@
-# A challenging triangle puzzle game 
+# Challenging triangle puzzle game 
 
 Project for the Aalto University course CS-A1121 - Programming 2.
 
