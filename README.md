@@ -24,6 +24,6 @@ there may be more than one correct solution, and the algorithm displays the firs
 Built on Python 3.7 with PyGame 1.9.5.
 
 
-## Authors
+## Author
 
 [Rustam Latypov](mailto:rustam.latypov@aalto.fi)
