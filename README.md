@@ -13,7 +13,7 @@ No valid solution is held in the memory of the program. Instead, every time a pl
 
 ## Software prerequisites
 
-Built with Python 3.7 with PyGame 1.9.5.
+Built with Python 3.7 and PyGame 1.9.5.
 
 
 ## Author
