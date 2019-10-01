@@ -8,7 +8,7 @@ This is a challenging triangle puzzle game with a sophisticated self-solving alg
 
 The player can check the validity of the current solution by pressing `Check solution`, generate a new game by pressing `New Game` and ask for the correct solution by pressing `Solve`. 
 
-No valid solution is held in the memory of the program. Instead, every time a player asks for a solution the program solves the board by employing a depth-first dynamic algorithm. Due to the nature of game there may be more than one correct solution, and the algorithm displays the first one it encounters. 
+No valid solution is held in the memory of the program. Instead, every time a player asks for a solution, the program solves the board by employing a depth-first dynamic algorithm. Due to the nature of the game there may be more than one correct solution, and the algorithm displays the first one it encounters. 
 
 
 ## Running
