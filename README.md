@@ -11,9 +11,10 @@ The player can check the validity of the current solution by pressing `Check sol
 No valid solution is held in the memory of the program. Instead, every time a player asks for a solution the program solves the board by employing a depth-first dynamic algorithm. Due to the nature of game there may be more than one correct solution, and the algorithm displays the first one it encounters. 
 
 
-## Software prerequisites
+## Running
 
-Built with Python 3.7 and PyGame 1.9.5.
+Built with Python 3.7.2 using `pygame`.<br/>
+In `/scripts` use `python3 main.py`.
 
 
 ## Author
