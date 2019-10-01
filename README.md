@@ -13,7 +13,7 @@ No valid solution is held in the memory of the program. Instead, every time a pl
 
 ## Running
 
-Built with Python 3.7.2 using `pygame`.<br/>
+Built with Python 3.7.2 using `pygame 1.9.4`.<br/>
 In `/src` run `python3 main.py`.
 
 
