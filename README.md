@@ -14,7 +14,7 @@ No valid solution is held in the memory of the program. Instead, every time a pl
 ## Running
 
 Built with Python 3.7.2 using `pygame`.<br/>
-In `/scripts` use `python3 main.py`.
+In `/src` use `python3 main.py`.
 
 
 ## Author
