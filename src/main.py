@@ -9,7 +9,7 @@ from res import *
 pg.init()
 pg.font.init()
 
-#-----------------create the screen object
+#-----------------create the screen object-----------------#
 screen = pg.display.set_mode((WIDTH, HEIGHT))
 pg.display.set_caption("Triangle puzzle")
 
